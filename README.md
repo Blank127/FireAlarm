@@ -41,7 +41,7 @@ A second 7-segment display shows the current alarm threshold for reference at al
 ## PCB
 
 <!-- Replace the line below with your actual image once converted to PNG/JPG -->
-![PCB Photo](images/pcb.jpg)
+<img src="images/pcb.jpg" alt="PCB Photo" style="transform: rotate(90deg);">
 
 > 📷 *PCB photo — upload a JPG/PNG version of the image to add it here*
 
