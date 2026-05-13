@@ -119,4 +119,4 @@ Hardware/
 
 ## Author
 
-**Aldrich Dias** — CMPE2700, 2026
+**Aldrich Dias** — CMPE2750, 2026
